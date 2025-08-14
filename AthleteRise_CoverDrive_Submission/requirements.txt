@@ -3,3 +3,4 @@ mediapipe
 numpy
 pytube
 tqdm
+yt_dlp
